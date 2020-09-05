@@ -1,0 +1,12 @@
+.main-list{
+    float: left;
+    margin: 20px 30px;
+    padding: 5px 5px;
+}
+.id{
+    font-weight: bold;
+}
+.box{
+    height: 200px;
+    width: 20px;
+}

@@ -1,0 +1,11 @@
+.main-detail{
+    border: 2px solid forestgreen;
+    margin-left: 250px;
+    margin-top:20px ;
+    padding: 5px 5px;
+    height: 300px;
+    width: 60%;
+    border: none;
+    box-shadow: 2px 2px 5px gray;
+    border-radius: 5px;
+}
